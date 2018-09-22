@@ -1,4 +1,5 @@
 # SimPhy
+
 ### A Simple Physics Simulator written in Java, and Java Swing
 
 ## Create Objects:
@@ -18,4 +19,4 @@
 - Create and save your scene.
 
 ## Demo:
-[![SimPhy-v1-Demo][https://i.imgur.com/LeCvQfz.gif]][https://www.youtube.com/watch?v=Gl2FUchzCTo]
+[![SimPhy-v1-Demo](https://i.imgur.com/LeCvQfz.gif)](https://www.youtube.com/watch?v=Gl2FUchzCTo "SimPhy-v1-Demo")
